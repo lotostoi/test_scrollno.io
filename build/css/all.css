@@ -1,0 +1,23 @@
+.contener {
+  margin-top: 50px;
+  -webkit-transition: .2s;
+  transition: .2s;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.gallery {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.output {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 40px;
+}
+/*# sourceMappingURL=all.css.map */
